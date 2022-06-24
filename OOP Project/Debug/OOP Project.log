@@ -1,0 +1,10 @@
+﻿  OOP Project.cpp
+D:\Coding\OOP Project\OOP Project\OOP Project.cpp(115,35): warning C4018: '<': signed/unsigned mismatch
+D:\Coding\OOP Project\OOP Project\OOP Project.cpp(139,35): warning C4018: '<': signed/unsigned mismatch
+D:\Coding\OOP Project\OOP Project\OOP Project.cpp(163,35): warning C4018: '<': signed/unsigned mismatch
+D:\Coding\OOP Project\OOP Project\OOP Project.cpp(221,31): warning C4018: '<': signed/unsigned mismatch
+D:\Coding\OOP Project\OOP Project\OOP Project.cpp(249,31): warning C4018: '<': signed/unsigned mismatch
+D:\Coding\OOP Project\OOP Project\OOP Project.cpp(372,31): warning C4018: '<': signed/unsigned mismatch
+D:\Coding\OOP Project\OOP Project\OOP Project.cpp(402,31): warning C4018: '<': signed/unsigned mismatch
+D:\Coding\OOP Project\OOP Project\OOP Project.cpp(435,31): warning C4018: '<': signed/unsigned mismatch
+  OOP Project.vcxproj -> D:\Coding\OOP Project\Debug\OOP Project.exe

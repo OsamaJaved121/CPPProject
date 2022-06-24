@@ -1,0 +1,18 @@
+Name: Alien
+Year: 1979
+Star names: Yaphet-Kotto, Sigourney Weaver
+Total number of Copies: 2
+Number of Copies Rented Out: Alien
+
+Name: Repo-man
+Year: 2020
+Star names: Harry-Dean-Stanton
+Total number of Copies: 4
+Number of Copies Rented Out: Repo-man
+
+Name: Midnight-run
+Year: 2011
+Star names: Yaphet-Kotto
+Total number of Copies: 1
+Number of Copies Rented Out: Midnight-run
+
